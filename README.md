@@ -1,2 +1,2 @@
 # ProgrammingContest
-This repository contains codes AC in OnlineJudge
+This repository contains ProgrammingContest codes
