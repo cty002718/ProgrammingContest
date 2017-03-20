@@ -13,6 +13,12 @@
 
 7. CF_GoodBye2015_D http://codeforces.com/problemset/problem/611/D
 
+8. CF_405div2_D http://codeforces.com/contest/791/problem/D
+
+9. CF_405div2_E http://codeforces.com/contest/791/problem/E
+
+10. 
+
 
 
 
