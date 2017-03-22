@@ -17,7 +17,10 @@
 
 9. CF_405div2_E http://codeforces.com/contest/791/problem/E
 
-10. 
+10. CF_206div2_D http://codeforces.com/contest/355/problem/D
+
+11. CF_206div2_E http://codeforces.com/contest/355/problem/E
+
 
 
 
