@@ -21,6 +21,8 @@
 
 11. CF_206div2_E http://codeforces.com/contest/355/problem/E
 
+12. CF_406div1_A http://codeforces.com/contest/786/problem/A
+
 
 
 
